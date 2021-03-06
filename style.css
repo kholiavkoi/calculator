@@ -36,4 +36,5 @@ body {
 .buttons_row__btn {
   width: 65px;
   height: 65px;
+  border-radius: 5px;
 }
